@@ -9,9 +9,7 @@ public class Format {
     public static Date parseDate(String dateString) throws ParseException {
         return dateFormat.parse(dateString);
     }
- public static Date parseDate(String date){
 
- }
     // Method to format a date to string
     public static String formatDate(Date date) {
         return dateFormat.format(date);
