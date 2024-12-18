@@ -1,3 +1,0 @@
-//optional
-public class FAQ {
-}
